@@ -1,0 +1,33 @@
+ : JAVA SCRIPT :
+  SCRIPT langu
+
+  statically typed language : c,c++,java
+
+  dynamically typed language : python, javascript
+
+  HTML : 
+  DOM :- document object model
+
+  use :
+  java script :-
+
+  server side:-
+  client side:- browser
+
+  compiler interpreter
+  javascript engine 
+  netscape ---> spider monkey -> firefox
+    google ---> v8 -> chrome
+    microsoft ---> chakra -> IE
+    apple ---> nitro -> safari
+    opera ---> carakan -> opera
+
+
+3 ways:
+    inline
+    internal
+    external
+    
+    inline : <button onclick="alert('hello')">click me</button>
+    internal : <script> alert('hello') </script>
+    external : <script src="script.js"></script>
