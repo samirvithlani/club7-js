@@ -1,0 +1,18 @@
+const compare4 = (a,b)=> a %2 ==0 &&  a>b ? a : b;
+else if
+
+2 no
+
+
+// if(a>b){
+
+//     console.log("a is grt... b");
+// }
+// else if(a == b){
+//     console.log("a is equal to b");
+// }
+// else{
+//     console.log("a is less than b");
+// }
+
+conver this to single line using ternary operator. and arrow function
