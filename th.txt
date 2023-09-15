@@ -53,3 +53,14 @@ F   F     F
 6)ternary operator ?:
 7)typeof operator
 
+
+
+function keyword -->
+
+arror function  =--> 
+with return statement --->
+without return statment and  {} blocks
+
+-->
+function with if else....
+funcion with ternary operator -->  single line...
