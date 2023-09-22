@@ -16,3 +16,14 @@ else if
 // }
 
 conver this to single line using ternary operator. and arrow function
+
+
+////count function....
+
+// function count(name,char){
+
+    return repete count....
+}
+
+count("raaj","a")
+

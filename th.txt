@@ -64,3 +64,11 @@ without return statment and  {} blocks
 -->
 function with if else....
 funcion with ternary operator -->  single line...
+
+check replace function with regex....
+
+toupercase tolowercase 1)
+trim
+indexof ,lastindexof
+replace all
+
