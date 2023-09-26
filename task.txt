@@ -27,3 +27,12 @@ conver this to single line using ternary operator. and arrow function
 
 count("raaj","a")
 
+
+1) create cricket match between 2 teams and declare winner
+2)create json for ordering pizza from "acoording to your 
+    type:
+    toppings:
+    size,
+    crust,
+
+
