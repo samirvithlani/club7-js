@@ -38,3 +38,9 @@ count("raaj","a")
 
 //custom sort..... DSA algo....
 
+--> map -->
+
+//heighest poppulated country
+//heighest poppulated city
+//heighest poppulated state
+
