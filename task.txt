@@ -47,3 +47,7 @@ count("raaj","a")
 
 
 find all upi transcation...
+
+
+10 countries --> INDIA ,CHINA --->
+images ---> 10 images --> india.jpg,china.jpg
