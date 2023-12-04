@@ -72,3 +72,11 @@ trim
 indexof ,lastindexof
 replace all
 
+
+
+
+
+3mployees --> department it hr --> 3 employees 2 male 1 female ,, hr 2 female --->
+
+it depat total salary
+it depat male total salary
