@@ -80,3 +80,20 @@ replace all
 
 it depat total salary
 it depat male total salary
+
+java script --> frontend --> backend --> datbase connectivity
+
+BACKEDN --> FRONTEND 
+
+java method ---> js call --->
+
+backend -- > API --> frontend
+.
+/ API expose --> url -->  DATA --> JSON /
+
+GET  : data fetch ---> frontend 
+POST : froneend data send --> backend
+PUT  :update
+DELETE : delete
+
+fetch function.... --> promise --> async await

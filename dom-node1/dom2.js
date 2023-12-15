@@ -91,8 +91,10 @@ for(let i=0;i<orders.length;i++){
 
 
 function orderNow(order){
-    //console.log(order.id);
+    //console.log(order);
     //alert("Order Now"+x);
     //alert("Order Id: " + order.id + "\nOrder Name: " + order.name + "\nOrder Items: " + order.items + "\nOrder Price: " + order.price);
     alert("Order Id : "+order.id+"\nOrder Name : "+order.name+"\nOrder Items : "+order.items+"\nOrder Price : "+order.price)
+    var billdiv = document.getElementById("bill")
+    
 }
