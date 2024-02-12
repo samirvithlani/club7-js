@@ -47,9 +47,6 @@ const getApiData = async () => {
                window.location.reload()
             })
 
-
-
-
             tr.appendChild(idTD)
             tr.appendChild(nameTD)
             tr.appendChild(emailTD)
