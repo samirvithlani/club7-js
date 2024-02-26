@@ -38,7 +38,7 @@ const getDataFromServer =()=>{
 //getDataFromServer();
 const readJsonFile =()=>{
 
-
+        const output = document.getElementById("output");
         var xhr = new XMLHttpRequest();
         xhr.open("GET","./student.json",true)
         xhr.send(); //request send..
@@ -46,9 +46,10 @@ const readJsonFile =()=>{
         xhr.onload = ()=>{
             var data = JSON.parse(xhr.responseText);
             console.log(data);
+            output.innerHTML = data[0].name;
         }
 
 
 
 }
-readJsonFile();
+//readJsonFile();
